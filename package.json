@@ -1,0 +1,13 @@
+{
+  "name": "js-objects-small-programs",
+  "version": "1.0.0",
+  "description": "5 Small Independent Programs to Learn JavaScript Objects",
+  "main": "01-object-basics.js",
+  "scripts": {
+    "prog1": "node 01-object-basics.js",
+    "prog2": "node 02-object-static-methods.js",
+    "prog3": "node 03-spread-and-destructuring.js",
+    "prog4": "node 04-nested-objects-and-arrays.js",
+    "prog5": "node 05-json-parse-stringify.js"
+  }
+}
